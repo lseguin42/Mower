@@ -3,9 +3,9 @@ Mower Project
 
 # Run
 ```shell
-./main.py < file
+./main.py < YOUR_TEST_FILE
 ```
 OR
 ```shell
-python main.py < file
+python main.py < YOUR_TEST_FILE
 ```
